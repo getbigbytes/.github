@@ -1,8 +1,5 @@
-<h1 align="center">An Open Source Platform for building <a href="https://huly.io">SaaS applications</a></h1><br>
+## Digitrans Inc
 
-<p align="center">
-  <a href="https://huly.io">
-    <img src="https://repository-images.githubusercontent.com/392073243/6d27d5cc-38cd-4d88-affe-bb88b393180c" loading="eager" decoding="async">
-  </a>
-</p>
+Digitrans builds data platforms for data and engineering teams to solve complex real-time, operational, and user-facing analytics use cases at any scale. Digitrans makes it easy to import data from a variety of sources, use SQL to filter, aggregate, and join that data, and publish low-latency, high-concurrency RESTful API endpoints.
 
+**[Discover our products and service](https://digi-trans.org)**
