@@ -1,4 +1,4 @@
-![BigBytes Image](https://raw.githubusercontent.com/digitranslab/static-resources/main/common/bigbytes_cover.jpg)
+![BigBytes Image](https://github.com/digitranslab/static-resources/blob/main/bigbytes/bigbytes_cover.jpg)
 
 <html>
   <h3 align="center">
